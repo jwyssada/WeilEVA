@@ -1,0 +1,21 @@
+{
+  "name": "WebClient",
+  "version": "0.0.1",
+  "homepage": "https://github.com/salztorte/WeilEVA",
+  "authors": [
+    "salztorte"
+  ],
+  "main": "clientIndex.html,",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.0-rc.1",
+    "angular-ui-router": "~0.2.14"
+  }
+}
