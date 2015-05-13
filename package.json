@@ -16,7 +16,6 @@
   },
   "homepage": "https://github.com/salztorte/WeilEVA",
   "devDependencies": {
-    "bower": "~1.4.1",
     "jshint": "^2.7.0"
   }
 }
