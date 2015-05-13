@@ -1,0 +1,22 @@
+{
+  "name": "WeilEVA",
+  "version": "1.0.0",
+  "description": "Dies ist ein Schulprojekt. Jeder der will kann gerne seinen Senf dazugeben.",
+  "main": " ",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salztorte/WeilEVA.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salztorte/WeilEVA/issues"
+  },
+  "homepage": "https://github.com/salztorte/WeilEVA",
+  "devDependencies": {
+    "bower": "~1.4.1",
+    "jshint": "^2.7.0"
+  }
+}
